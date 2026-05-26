@@ -3,7 +3,7 @@
 **대상 논문**: Context Enhancement with Reconstruction as Sequence for Unified Unsupervised Anomaly Detection  
 **공식 코드**: Nothingtolose9979/RAS  
 **과제 유형**: 오픈소스 논문 구현 및 분석  
-**작성자**: [학번 / 이름 기입]
+**작성자**: 2023311598 명유나
 
 ---
 
