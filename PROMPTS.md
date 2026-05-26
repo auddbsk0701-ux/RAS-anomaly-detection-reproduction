@@ -4,7 +4,7 @@
 
 - 대상 논문: **Context Enhancement with Reconstruction as Sequence for Unified Unsupervised Anomaly Detection**
 - 공식 코드: **Nothingtolose9979/RAS**
-- 사용 AI 도구: ChatGPT codeX
+- 사용 AI 도구: ChatGPT Codex
 - 목적: 논문 이해, 오픈소스 코드 실행, 오류 해결, 결과 해석, 보고서 및 발표 자료 구성
 
 > 아래 내용은 과제 수행 과정에서 사용한 프롬프트를 보고서 제출용으로 정리한 것이다. 실제 제출 전 본인이 사용한 날짜나 추가 질문이 있으면 수정해서 사용한다.
